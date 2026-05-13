@@ -112,11 +112,19 @@ This experience helped me understand how to build websites not only as visual pa
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=apela812&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=apela812&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apela812&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=apela812&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 </div>
 
@@ -126,24 +134,8 @@ This experience helped me understand how to build websites not only as visual pa
 
 <div align="center">
 
-<a href="mailto:onevia666@gmail.com">
-  <img src="https://img.shields.io/badge/Email-onevia666%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-</a>
-
-<a href="https://t.me/onevu">
-  <img src="https://img.shields.io/badge/Telegram-@onevu-111111?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
-</a>
-
-<a href="https://github.com/apela812">
-  <img src="https://img.shields.io/badge/GitHub-apela812-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Open to internships, junior web developer roles and freelance web projects.
+[![Email](https://img.shields.io/badge/Email-onevia666%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:onevia666@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@onevu-111111?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/onevu)
+[![GitHub](https://img.shields.io/badge/GitHub-apela812-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/apela812)
 
 </div>
