@@ -6,7 +6,7 @@
 
 I build practical web applications with clean interfaces, responsive layouts and simple user experience.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%2F+Next.js+Developer;Building+practical+web+apps;Open+to+internships+and+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%2F+Next.js+Developer;Python+%2F+Web+Developer;Building+practical+web+apps" alt="Typing SVG" />
 
 <br/>
 
@@ -25,8 +25,9 @@ I am a beginner web developer from **Kazan, Tatarstan**.
 I work on websites, landing pages and small web applications.  
 My main goal is to build interfaces that are easy to use, easy to maintain and useful for real tasks.
 
-- I work with **HTML, CSS, JavaScript, TypeScript, React and Next.js**
+- I work with **HTML, CSS, JavaScript, TypeScript, React, Next.js and Python**
 - I create responsive layouts and frontend interfaces
+- I use Python for scripts, automation and backend basics
 - I have experience with commercial and educational web projects
 - I use Git, GitHub, REST API, Node.js basics and Linux tools
 - I am open to internships, junior developer roles and freelance web tasks
@@ -49,6 +50,7 @@ My main goal is to build interfaces that are easy to use, easy to maintain and u
 
 ### Backend & Tools
 
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=009688)
@@ -105,6 +107,7 @@ This experience helped me understand how to build websites not only as visual pa
 
 - Advanced JavaScript and TypeScript
 - React and Next.js
+- Python for scripts, automation and backend basics
 - Node.js and backend development
 - API development and integration
 - Web application architecture
@@ -137,5 +140,13 @@ This experience helped me understand how to build websites not only as visual pa
 [![Email](https://img.shields.io/badge/Email-onevia666%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:onevia666@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@onevu-111111?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/onevu)
 [![GitHub](https://img.shields.io/badge/GitHub-apela812-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/apela812)
+
+</div>
+
+---
+
+<div align="center">
+
+### Open to internships, junior web developer roles and freelance web projects.
 
 </div>
